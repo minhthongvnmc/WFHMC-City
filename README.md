@@ -34,6 +34,16 @@ WFHMC City (formerly World Flat House Map) is a large-scale and highly detailed 
 
 ---
 
+### 🛠️ Development Tools & World Builder Add-On
+
+To accelerate the construction process and handle complex urban structures efficiently, **WFHMC City** incorporates the **World Builder Add-On**:
+
+* **Fast Building & Quick Expansion:** Streamlines large-scale block placement and rapid structure drafting.
+* **Boosted Workflow Speed:** Significantly reduces development time for huge city sectors.
+* **Advanced Structure Handling:** Simplifies the learning curve for complex building tools and intricate designs in Minecraft Bedrock Edition.
+
+---
+
 ### 👥 Team & Contributors
 
 - **Main Developer & Studio:** MinhthongVNMC Studio
