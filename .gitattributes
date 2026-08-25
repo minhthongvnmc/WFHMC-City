@@ -1,0 +1,20 @@
+# Force C++ recognition for source and header files
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+*.h linguist-language=C++
+*.cc linguist-language=C++
+*.cxx linguist-language=C++
+
+# Ignore Minecraft pack files and configurations from language statistics
+*.json linguist-vendored=true
+*.mcstructure linguist-vendored=true
+*.mcpack linguist-vendored=true
+*.mcworld linguist-vendored=true
+*.png linguist-vendored=true
+*.jpg linguist-vendored=true
+
+# Mark data, texture, and pack folders as vendor resources
+textures/* linguist-vendored=true
+structures/* linguist-vendored=true
+behavior_packs/* linguist-vendored=true
+resource_packs/* linguist-vendored=true
