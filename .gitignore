@@ -1,0 +1,4 @@
+world/db/LOCK
+world/db/LOG*
+*.ldb.tmp
+*.mcworld
