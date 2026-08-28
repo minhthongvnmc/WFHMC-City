@@ -67,10 +67,6 @@ To accelerate the construction process and handle complex urban structures effic
 <img width="1547" height="870" alt="1000725921" src="https://github.com/user-attachments/assets/ae2d9b7a-8443-4205-aa16-f584e2d6e85d" />
 <img width="1916" height="1078" alt="1000725922" src="https://github.com/user-attachments/assets/5ca563e4-2a4f-4a2f-9722-69c6d96ec76f" />
 
-# How to Download WFHMC City on Minecraft pe
-https://youtube.com/shorts/MX8kIN6Kz1o?si=1eKbclrv-QLtyNd4
-
-
 ### 💬 Discord Server
 
 Join our Discord server to get the latest updates and become part of the WFHMC City community!
