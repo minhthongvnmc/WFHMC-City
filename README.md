@@ -81,7 +81,7 @@ To accelerate the construction process and handle complex urban structures effic
 | :--- | :--- |
 | **CurseForge** | [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-bedrock/maps/wfhmc-city-bedrock-edition) |
 | **MCPEDL** | [![MCPEDL](https://img.shields.io/badge/MCPEDL-538332?style=for-the-badge&logo=minecraft&logoColor=white)](https://mcpedl.com/wfhmc-city-bedrock-edition) |
-| **PlanetbMinecraft** | [![Planet Minecraft](https://img.shields.io/badge/PlanetMinecraft-0077B5?style=for-the-badge&logo=planetminecraft&logoColor=white)](https://www.planetminecraft.com/project/world-flat-house-map) |
+| **Planet Minecraft** | [![Planet Minecraft](https://img.shields.io/badge/Planet Minecraft-0077B5?style=for-the-badge&logo=planetminecraft&logoColor=white)](https://www.planetminecraft.com/project/world-flat-house-map) |
 
 ---
 
