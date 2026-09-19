@@ -47,7 +47,7 @@ To accelerate the construction process and handle complex urban structures effic
 | Role | Member / Entity |
 | :--- | :--- |
 | **Main Developer & Studio** | MinhthongVNMC Studio |
-| **Author & Contributor** | Nguyen Minh Toi |
+| **Author & Moderator** | Nguyen Minh Toi |
 
 ---
 
