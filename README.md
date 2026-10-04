@@ -1,7 +1,5 @@
+<img width="1961" height="1080" alt="1000295638" src="https://github.com/user-attachments/assets/a9641070-6b93-4b85-88f5-53fdbb17d314" />
 <div align="center">
-
-  <!-- Main Banner Image -->
-  <img src="https://raw.githubusercontent.com/minhthongvnmc/WFHMC-City/main/assets/banner.jpg" alt="WFHMC City Banner" width="100%" />
 
   # WFHMC City (Bedrock Edition)
 
