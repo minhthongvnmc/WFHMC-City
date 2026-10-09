@@ -14,7 +14,7 @@
 
 ### 📖 About The Project
 
-**WFHMC City** (formerly *World Flat House Map*) is a large-scale and highly detailed urban development project in **Minecraft Bedrock Edition**, developed by **MinhthongVNMC Studio**. First released as an alpha version on **May 29, 2023**, it represents continuous creative effort in transforming a flat world into a vibrant, modern metropolis.
+**WFHMC City** (formerly *World Flat House Map*) is a large-scale and highly detailed urban development project in **Minecraft Bedrock Edition**, developed by **ThongVNMC Studio**. First released as an alpha version on **May 29, 2023**, it represents continuous creative effort in transforming a flat world into a vibrant, modern metropolis.
 
 ---
 
@@ -32,7 +32,7 @@
 | Property | Details |
 | :--- | :--- |
 | **Project Name** | WFHMC City (Bedrock Edition) |
-| **Main Developer / Studio** | MinhthongVNMC Studio |
+| **Main Developer / Studio** | ThongVNMC Studio |
 | **Platform** | Minecraft Bedrock Edition |
 | **Initial Creation Date** | May 29, 2023 |
 | **Current Status** | Beta Version *(Official release scheduled for December 2027)* |
@@ -53,7 +53,7 @@ To accelerate the construction process and handle complex urban structures effic
 
 | Role | Member / Entity |
 | :--- | :--- |
-| **Main Developer & Studio** | MinhthongVNMC Studio |
+| **Main Developer & Studio** | ThongVNMC Studio |
 | **Author & Moderator** | Nguyen Minh Toi |
 
 ---
@@ -70,10 +70,10 @@ To accelerate the construction process and handle complex urban structures effic
 
 |<br>Platform | Link |
 | :--- | :--- |
-| **YOUTUBE** | [![MinhthongVNMC Studio](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhthongvnmc) |
-| **TIKTOK** | [![MinhthongVNMC Studio](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minhthongvnmc) |
-| **X (TWITTER)** | [![MinhthongVNMC Studio](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minhthongvnmc) |
-| **FACEBOOK** | [![MinhthongVNMC Studio](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1JC6pRTRDu/) |
+| **YOUTUBE** | [![ThongVNMC Studio](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhthongvnmc) |
+| **TIKTOK** | [![ThongVNMC Studio](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minhthongvnmc) |
+| **X (TWITTER)** | [![ThongVNMC Studio](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minhthongvnmc) |
+| **FACEBOOK** | [![ThongVNMC Studio](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1JC6pRTRDu/) |
 
 ---
 
