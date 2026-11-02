@@ -3,7 +3,7 @@
 
   # WFHMC City (Bedrock Edition)
 
-  [![Release](https://img.shields.io/badge/V2.5__Beta-2EA44F?style=for-the-badge)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta)
+  [![Release](https://img.shields.io/badge/STATUS-V2.5__BETA-2EA44F?style=for-the-badge)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta)
   [![License](https://img.shields.io/badge/CC%20BY--NC%203.0-D97706?style=for-the-badge)](https://github.com/minhthongvnmc/WFHMC-City/blob/main/LICENSE)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta)
   [![GitHub all releases](https://img.shields.io/github/downloads/minhthongvnmc/WFHMC-City/total?style=for-the-badge&color=238636)](https://github.com/minhthongvnmc/WFHMC-City/releases)
@@ -68,7 +68,7 @@ To accelerate the construction process and handle complex urban structures effic
 
 ### 📱 Follow Us
 
-|<br>Platform | Link |
+| Platform | Link |
 | :--- | :--- |
 | **YOUTUBE** | [![ThongVNMC Studio](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhthongvnmc) |
 | **TIKTOK** | [![ThongVNMC Studio](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minhthongvnmc) |
