@@ -1,12 +1,20 @@
-<img width="1961" height="1080" alt="1000295638" src="https://github.com/user-attachments/assets/a9641070-6b93-4b85-88f5-53fdbb17d314" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a9641070-6b93-4b85-88f5-53fdbb17d314">
+    <img width="100%" style="max-width: 900px; height: auto; border-radius: 8px;" alt="WFHMC City Banner" src="https://github.com/user-attachments/assets/a9641070-6b93-4b85-88f5-53fdbb17d314">
+  </picture>
+</p>
+
 <div align="center">
 
   # WFHMC City (Bedrock Edition)
 
-  [![Release](https://img.shields.io/badge/STATUS-V2.5__BETA-2EA44F?style=for-the-badge)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta)
-  [![License](https://img.shields.io/badge/CC%20BY--NC%203.0-D97706?style=for-the-badge)](https://github.com/minhthongvnmc/WFHMC-City/blob/main/LICENSE)
-  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta)
-  [![GitHub all releases](https://img.shields.io/github/downloads/minhthongvnmc/WFHMC-City/total?style=for-the-badge&color=238636)](https://github.com/minhthongvnmc/WFHMC-City/releases)
+  <p align="center">
+    <a href="https://github.com/minhthongvnmc/WFHMC-City/releases"><img src="https://img.shields.io/badge/V2.5__Beta-2EA44F?style=for-the-badge" alt="Release"></a>
+    <a href="https://github.com/minhthongvnmc/WFHMC-City/blob/main/LICENSE"><img src="https://img.shields.io/badge/CC%20BY--NC%203.0-D97706?style=for-the-badge" alt="License"></a>
+    <a href="https://github.com/minhthongvnmc/WFHMC-City/releases"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://github.com/minhthongvnmc/WFHMC-City/releases"><img src="https://img.shields.io/github/downloads/minhthongvnmc/WFHMC-City/total?style=for-the-badge&color=238636" alt="Downloads"></a>
+  </p>
 
 </div>
 
