@@ -1,20 +1,9 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a9641070-6b93-4b85-88f5-53fdbb17d314">
-    <img width="100%" style="max-width: 900px; height: auto; border-radius: 8px;" alt="WFHMC City Banner" src="https://github.com/user-attachments/assets/a9641070-6b93-4b85-88f5-53fdbb17d314">
-  </picture>
-</p>
-
+<img width="1961" height="1080" alt="1000295638" src="https://github.com/user-attachments/assets/a9641070-6b93-4b85-88f5-53fdbb17d314" />
 <div align="center">
 
   # WFHMC City (Bedrock Edition)
 
-  <p align="center">
-    <a href="https://github.com/minhthongvnmc/WFHMC-City/releases"><img src="https://img.shields.io/badge/V2.5__Beta-2EA44F?style=for-the-badge" alt="Release"></a>
-    <a href="https://github.com/minhthongvnmc/WFHMC-City/blob/main/LICENSE"><img src="https://img.shields.io/badge/CC%20BY--NC%203.0-D97706?style=for-the-badge" alt="License"></a>
-    <a href="https://github.com/minhthongvnmc/WFHMC-City/releases"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://github.com/minhthongvnmc/WFHMC-City/releases"><img src="https://img.shields.io/github/downloads/minhthongvnmc/WFHMC-City/total?style=for-the-badge&color=238636" alt="Downloads"></a>
-  </p>
+  `V2.5 Beta` &nbsp;•&nbsp; `CC BY-NC 3.0` &nbsp;•&nbsp; `Minecraft Bedrock`
 
 </div>
 
@@ -70,7 +59,7 @@ To accelerate the construction process and handle complex urban structures effic
 
 | Platform | Official Link |
 | :--- | :--- |
-| **DISCORD** | [![WFHMC City Official](https://img.shields.io/badge/WFHMC%20City%20Official-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S9TjrjMJnN) |
+| **DISCORD** | [Join WFHMC City Official Discord](https://discord.gg/S9TjrjMJnN) |
 
 ---
 
@@ -78,25 +67,25 @@ To accelerate the construction process and handle complex urban structures effic
 
 | Platform | Link |
 | :--- | :--- |
-| **YOUTUBE** | [![ThongVNMC Studio](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minhthongvnmc) |
-| **TIKTOK** | [![ThongVNMC Studio](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minhthongvnmc) |
-| **X (TWITTER)** | [![ThongVNMC Studio](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minhthongvnmc) |
-| **FACEBOOK** | [![ThongVNMC Studio](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1JC6pRTRDu/) |
+| **YOUTUBE** | [ThongVNMC Studio YouTube](https://www.youtube.com/@minhthongvnmc) |
+| **TIKTOK** | [ThongVNMC Studio TikTok](https://www.tiktok.com/@minhthongvnmc) |
+| **X (TWITTER)** | [ThongVNMC Studio X](https://x.com/minhthongvnmc) |
+| **FACEBOOK** | [ThongVNMC Studio Facebook](https://www.facebook.com/share/1JC6pRTRDu/) |
 
 ---
 
 ### 📥 Download Options & External Providers
 
 #### 🔹 Primary Release
-[![GitHub Direct Download](https://img.shields.io/badge/GitHub--Releases-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta)
+- [GitHub Releases & Direct Download](https://github.com/minhthongvnmc/WFHMC-City/releases/tag/V2.4_Beta)
 
 #### 🔹 Supported Providers & Mirrors
 
 | Provider | Access Link |
 | :--- | :--- |
-| **CurseForge** | [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-bedrock/maps/wfhmc-city-bedrock-edition) |
-| **MCPEDL** | [![MCPEDL](https://img.shields.io/badge/MCPEDL-538332?style=for-the-badge&logo=minecraft&logoColor=white)](https://mcpedl.com/wfhmc-city-bedrock-edition) |
-| **PlanetMinecraft** | [![PlanetMinecraft](https://img.shields.io/badge/PlanetMinecraft-0077B5?style=for-the-badge&logo=planetminecraft&logoColor=white)](https://www.planetminecraft.com/project/world-flat-house-map) |
+| **CurseForge** | [View on CurseForge](https://www.curseforge.com/minecraft-bedrock/maps/wfhmc-city-bedrock-edition) |
+| **MCPEDL** | [View on MCPEDL](https://mcpedl.com/wfhmc-city-bedrock-edition) |
+| **PlanetMinecraft** | [View on PlanetMinecraft](https://www.planetminecraft.com/project/world-flat-house-map) |
 
 ---
 
